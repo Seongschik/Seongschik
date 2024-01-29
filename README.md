@@ -26,7 +26,7 @@ Front End:
 
 Database:
 
-[![My Skills](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 Other:
 
