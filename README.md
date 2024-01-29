@@ -38,6 +38,5 @@ Current Location:
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting developments! 🚀
 
-LinkedIn | Twitter | Portfolio
 
 Happy coding! 🖥️✨
