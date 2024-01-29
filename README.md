@@ -8,7 +8,9 @@ Education: Graduated from Gubkin Russian State University of Oil and Gas
 
 About Me:
 🌏 Currently based in Ansan
+
 💡 Passionate Overseas Developer with a focus on Java
+
 🎓 Alumni of Gubkin Russian State University of Oil and Gas
 
 Tech Stack:
