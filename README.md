@@ -15,19 +15,25 @@ About Me:
 🎓 Alumni of Gubkin Russian State University of Oil and Gas
 
 Tech Stack:
+
 Back End:
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
 
 Front End:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 Database:
+
 [![My Skills](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
 
 Other:
+
 [![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
 
 Current Location:
+
 📍 [경기 안산시 상록구 사동]
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting developments! 🚀
