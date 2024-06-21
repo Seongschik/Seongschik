@@ -2,13 +2,13 @@ Welcome to My GitHub Space! 👋
 
 I'm: 전성식 (Ten Sen Shchik)
 
-Age: 30
+Age: 31
 
 Education: Graduated from Gubkin Russian State University of Oil and Gas
 
 About Me:
 
-🌏 Currently based in Ansan
+🌏 Currently based in South Korea, Seongnam
 
 💡 Passionate Overseas Developer with a focus on Java
 
@@ -32,14 +32,7 @@ Other:
 
 [![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
 
-Current Location:
-
-📍 [경기 안산시 상록구 사동]
-
-Feel free to explore my repositories and projects. Let's connect and collaborate on exciting developments! 🚀
-
 
 Happy coding! 🖥️✨
 
-sudo apt-get install '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev -y
 
