@@ -36,3 +36,17 @@ Other:
 Happy coding! 🖥️✨
 
 
+
+
+```mermaid
+graph TD
+
+
+
+  couple((Отец + Мать))
+
+  couple --> child1[Сын 1]
+  couple --> child2[Дочь]
+  couple --> child3[Сын 2]
+
+```
