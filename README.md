@@ -2,7 +2,7 @@ Welcome to My GitHub Space! 👋
 
 I'm: 전성식 (Ten Sen Shchik)
 
-Age: 31
+Age: 32
 
 Education: Graduated from Gubkin Russian State University of Oil and Gas
 
@@ -38,15 +38,3 @@ Happy coding! 🖥️✨
 
 
 
-```mermaid
-graph TD
-
-
-
-  couple((Отец + Мать))
-
-  couple --> child1[Сын 1]
-  couple --> child2[Дочь]
-  couple --> child3[Сын 2]
-
-```
