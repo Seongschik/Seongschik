@@ -2,17 +2,18 @@ Welcome to My GitHub Space! 👋
 
 I'm: 전성식 (Ten Sen Shchik)
 
-Age: 32
+Age: 33
 
 Education: Graduated from Gubkin Russian State University of Oil and Gas
 
-About Me
+### About Me
 
 Software Engineer based in Seongnam, South Korea, specializing in Java development, telemetry systems and hardware integration.
 
 Currently developing software for electrical ground support equipment used to receive, process, store and visualize spacecraft telemetry.
 
 Experienced with Java, Spring Boot, JavaFX, PostgreSQL, Linux, CAN, CSP, UART, TCP/IP and JNI integration with native C libraries.
+
 
 ## Featured Projects
 
@@ -29,54 +30,38 @@ Ground support software for receiving, processing, storing and visualizing telem
 * Integrated software with real hardware and emulators
 
 
-Tech Stack:
+### Tech Stack:
 
-Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,postgres,js,html,css,bash,spring](https://skillicons.dev)
 Java, C, SQL, JavaScript, HTML, CSS, Bash 
 
-![JavaFX](https://img.shields.io/badge/JavaFX-Desktop_Application-blue)
-
-Back End:
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
-
+#### Back End:
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,maven)](https://skillicons.dev)
 Spring Boot, REST API, Maven, JDBC, JNI
 
-Desktop
-
+#### Desktop:
+![JavaFX](https://img.shields.io/badge/JavaFX-Desktop_Application-blue)
 JavaFX
 
-
-
-Database:
-
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+#### Database:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 PostgreSQL, MySQL
 
-Infrastructure
-
+#### Infrastructure:
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github)](https://skillicons.dev)
 Linux, Docker, Git, GitHub, tmux
 
-Communication and hardware
-
+#### Communication and hardware:
 CAN, CSP, UART, RS-232, TCP/IP, HTTP
-
-
-Other:
-
-[![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
 
 
 LinkedIn: www.linkedin.com/in/seongschikjeon/
 Email: seongschik73@gmail.com
 Location: Seongnam, South Korea
-Languages: Russian, Korean, English
+Languages: Russian, English, Korean 
 
-Happy coding! 🖥️✨
-
+#### Happy coding! 🖥️✨
 
 
 
