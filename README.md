@@ -62,6 +62,7 @@ Linux, Docker, Git, GitHub, tmux
 CAN, CSP, UART, RS-232, TCP/IP, HTTP
 
 
+---
 LinkedIn: www.linkedin.com/in/seongschikjeon/
 
 Email: seongschik73@gmail.com
