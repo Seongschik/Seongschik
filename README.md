@@ -6,6 +6,16 @@ Age: 33
 
 Education: Graduated from Gubkin Russian State University of Oil and Gas
 
+LinkedIn: www.linkedin.com/in/seongschikjeon/
+
+Email: seongschik73@gmail.com
+
+Location: Seongnam, South Korea
+
+Languages: Russian, English, Korean 
+
+---
+
 ### About Me
 
 Software Engineer based in Seongnam, South Korea, specializing in Java development, telemetry systems and hardware integration.
@@ -62,14 +72,7 @@ Linux, Docker, Git, GitHub, tmux
 CAN, CSP, UART, RS-232, TCP/IP, HTTP
 
 
----
-LinkedIn: www.linkedin.com/in/seongschikjeon/
 
-Email: seongschik73@gmail.com
-
-Location: Seongnam, South Korea
-
-Languages: Russian, English, Korean 
 
 #### Happy coding! 🖥️✨
 
