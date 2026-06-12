@@ -6,27 +6,62 @@ Age: 32
 
 Education: Graduated from Gubkin Russian State University of Oil and Gas
 
-About Me:
+About Me
 
-🌏 Currently based in South Korea, Seongnam
+Software Engineer based in Seongnam, South Korea, specializing in Java development, telemetry systems and hardware integration.
 
-💡 Passionate Overseas Developer with a focus on Java
+Currently developing software for electrical ground support equipment used to receive, process, store and visualize spacecraft telemetry.
 
-🎓 Alumni of Gubkin Russian State University of Oil and Gas
+Experienced with Java, Spring Boot, JavaFX, PostgreSQL, Linux, CAN, CSP, UART, TCP/IP and JNI integration with native C libraries.
+
+## Featured Projects
+
+### EGSE Telemetry and Control System
+
+Ground support software for receiving, processing, storing and visualizing telemetry data from spacecraft equipment.
+
+**Technologies:** Java, Spring Boot, JavaFX, PostgreSQL, Linux, TCP/IP, UART, REST API
+
+* Developed telemetry acquisition and visualization modules
+* Implemented binary packet parsing and CRC validation
+* Added PostgreSQL storage and historical data retrieval
+* Created a JavaFX operator interface for equipment monitoring
+* Integrated software with real hardware and emulators
+
 
 Tech Stack:
+
+Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+Java, C, SQL, JavaScript, HTML, CSS, Bash 
 
 Back End:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
 
-Front End:
+Spring Boot, REST API, Maven, JDBC, JNI
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+Desktop
+
+JavaFX
+
+
 
 Database:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+PostgreSQL, MySQL
+
+Infrastructure
+
+Linux, Docker, Git, GitHub, tmux
+
+Communication and hardware
+
+CAN, CSP, UART, RS-232, TCP/IP, HTTP
+
 
 Other:
 
