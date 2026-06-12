@@ -24,8 +24,9 @@ Currently developing software for electrical ground support equipment used to re
 
 Experienced with Java, Spring Boot, JavaFX, PostgreSQL, Linux, CAN, CSP, UART, TCP/IP and JNI integration with native C libraries.
 
+---
 
-## Featured Projects
+### Featured Projects
 
 ### EGSE Telemetry and Control System
 
@@ -39,7 +40,7 @@ Ground support software for receiving, processing, storing and visualizing telem
 * Created a JavaFX operator interface for equipment monitoring
 * Integrated software with real hardware and emulators
 
-
+---
 ### Tech Stack:
 
 #### Languages:
@@ -71,8 +72,7 @@ Linux, Docker, Git, GitHub, tmux
 
 CAN, CSP, UART, RS-232, TCP/IP, HTTP
 
-
-
+---
 
 #### Happy coding! 🖥️✨
 
