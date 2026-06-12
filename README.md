@@ -37,6 +37,8 @@ Languages
 
 Java, C, SQL, JavaScript, HTML, CSS, Bash 
 
+![JavaFX](https://img.shields.io/badge/JavaFX-Desktop_Application-blue)
+
 Back End:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
@@ -67,6 +69,11 @@ Other:
 
 [![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
 
+
+LinkedIn: www.linkedin.com/in/seongschikjeon/
+Email: seongschik73@gmail.com
+Location: Seongnam, South Korea
+Languages: Russian, Korean, English
 
 Happy coding! 🖥️✨
 
