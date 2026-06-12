@@ -34,31 +34,40 @@ Ground support software for receiving, processing, storing and visualizing telem
 
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,c,mysql,postgres,js,html,css,bash,spring](https://skillicons.dev)
+
 Java, C, SQL, JavaScript, HTML, CSS, Bash 
 
 #### Back End:
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,maven)](https://skillicons.dev)
+
 Spring Boot, REST API, Maven, JDBC, JNI
 
 #### Desktop:
 ![JavaFX](https://img.shields.io/badge/JavaFX-Desktop_Application-blue)
+
 JavaFX
 
 #### Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
 PostgreSQL, MySQL
 
 #### Infrastructure:
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github)](https://skillicons.dev)
+
 Linux, Docker, Git, GitHub, tmux
 
 #### Communication and hardware:
+
 CAN, CSP, UART, RS-232, TCP/IP, HTTP
 
 
 LinkedIn: www.linkedin.com/in/seongschikjeon/
+
 Email: seongschik73@gmail.com
+
 Location: Seongnam, South Korea
+
 Languages: Russian, English, Korean 
 
 #### Happy coding! 🖥️✨
